@@ -46,4 +46,5 @@
         }        
         echo json_encode($array);   
     }
+El hola ahora está aquí
 ?>
