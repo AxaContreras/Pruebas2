@@ -13,3 +13,4 @@ foreach ($result as $row) {
     $data[] = $row;
 }
 print json_encode($data);
+Hola hehehe
